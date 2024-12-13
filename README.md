@@ -9,9 +9,9 @@ Objectives
 1.	Data Cleaning & Preparation: Ensure datasets are consistent, clean, and ready for analysis.
 2.	Data Merging: Combine the datasets into a unified structure.
 3.	Analysis:
-o	Explore the relationship between cooking sessions and user orders.
-o	Identify popular dishes.
-o	Investigate demographic factors influencing user behavior.
+  o	Explore the relationship between cooking sessions and user orders.
+  o	Identify popular dishes.
+  o	Investigate demographic factors influencing user behavior.
 4.	Visualization: Use visualizations to highlight key trends and insights.
 5.	Reporting: Summarize findings and provide business recommendations.
 
